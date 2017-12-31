@@ -1,15 +1,15 @@
 <?php
 date_default_timezone_set('Africa/Johannesburg');
-if (isset($_COOKIE["MONERO_LANG"]))
+if (isset($_COOKIE["Petcoin_LANG"]))
 {
-	if ($_COOKIE["MONERO_LANG"] == "en")
+	if ($_COOKIE["Petcoin_LANG"] == "en")
 	{
 		header('Location: /home');
 		die();
 	}
 	else
 	{
-		header('Location: /'.$_COOKIE["MONERO_LANG"]);
+		header('Location: /'.$_COOKIE["Petcoin_LANG"]);
 		die();
 	}
 }
@@ -21,18 +21,18 @@ if (isset($_COOKIE["MONERO_LANG"]))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Monero - secure, private, and untraceable</title>
-	<meta name="description" content="Monero is a digital currency that is secure, private, and untraceable.">
-	<meta name="keywords" content="monero, xmr, bitmonero, cryptocurrency">
+    <title>Petcoin - secure, private, and untraceable</title>
+	<meta name="description" content="Petcoin is a digital currency that is secure, private, and untraceable.">
+	<meta name="keywords" content="Petcoin, xmr, bitPetcoin, cryptocurrency">
 
-    <meta property="og:title" content="Monero - secure, private, untraceable"/>
-    <meta property="og:description" content="Monero is a digital currency that is secure, private, and untraceable.">
-    <meta property="og:image" content="http://static.getmonero.org/images/opengraph/logo.png">
-    <meta property="og:site_name" content="getmonero.org, The Monero Project">
-    <meta property="og:url" content="https://getmonero.org/language.php">
+    <meta property="og:title" content="Petcoin - secure, private, untraceable"/>
+    <meta property="og:description" content="Petcoin is a digital currency that is secure, private, and untraceable.">
+    <meta property="og:image" content="http://static.getPetcoin.org/images/opengraph/logo.png">
+    <meta property="og:site_name" content="getPetcoin.org, The Petcoin Project">
+    <meta property="og:url" content="https://getPetcoin.org/language.php">
     <meta property="og:type" content="website">
 
-    <link href="//static.getmonero.org/style.css?1" rel="stylesheet">
+    <link href="//static.getPetcoin.org/style.css?1" rel="stylesheet">
   </head>
 
   <body class="body-language">
@@ -40,7 +40,7 @@ if (isset($_COOKIE["MONERO_LANG"]))
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container" style="padding-bottom: 0px;">
         <div class="navbar-header">
-          <a class="navbar-brand" href="/"><img class="logo" src="//static.getmonero.org/images/logo.svg"></a>
+          <a class="navbar-brand" href="/"><img class="logo" src="//static.getPetcoin.org/images/logo.svg"></a>
         </div>
       </div>
     </div>
@@ -49,12 +49,12 @@ if (isset($_COOKIE["MONERO_LANG"]))
       <div class="row">
         <div class="col-md-4 col-md-offset-2">
           <ul class="nav nav-pills nav-stacked flag-select">
-            <li><a href="/home"><h3><img class="flag" src="//static.getmonero.org/images/flags/english_combined.png"> English</h3></a></li>
+            <li><a href="/home"><h3><img class="flag" src="//static.getPetcoin.org/images/flags/english_combined.png"> English</h3></a></li>
           </ul>
         </div>
         <div class="col-md-4">
           <ul class="nav nav-pills nav-stacked flag-select">
-            <li><h3 style="line-height: 50px; padding: 10px 20px;"><img class="flag" src="//static.getmonero.org/images/flags/allflags.png"> More to come...</h3></li>
+            <li><h3 style="line-height: 50px; padding: 10px 20px;"><img class="flag" src="//static.getPetcoin.org/images/flags/allflags.png"> More to come...</h3></li>
           </ul>
         </div>
       </div>
@@ -63,14 +63,14 @@ if (isset($_COOKIE["MONERO_LANG"]))
     <div class="footer">
       <div class="container">
         <p>
-          Copyright &copy; <strong>The Monero Project, <?php echo date("Y"); ?></strong>
+          Copyright &copy; <strong>The Petcoin Project, <?php echo date("Y"); ?></strong>
         </p>
       </div>
     </div>
 
 
     <!-- JS -->
-    <script src="//static.getmonero.org/scripts.js"></script>
+    <script src="//static.getPetcoin.org/scripts.js"></script>
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
