@@ -5,11 +5,11 @@ title: FAQ
 
 <div class="tab">
     <input id="tab-one" type="checkbox" name="tabs" class="accordion">
-    <label for="tab-one" class="accordion">How does Monero have value?</label>
+    <label for="tab-one" class="accordion">Como é que a Petcoin obtém o seu valor?</label>
     
 <div class="tab-content" markdown="1">
 
-Monero has value because people are willing to buy it. If no one is willing to buy Monero, then it will not have any value. Monero’s price increases if demand exceeds supply, and it decreases if supply exceeds demand.
+A Petcoin tem valor porque as pessoas estão dispostas a comprá-la. Se ninguém está disposto a comprar a Petcoin, então não terá nenhum valor. O preço da Petcoin aumenta se a demanda exceder a oferta, e diminui se a oferta exceder a demanda.
 
 </div>
 
@@ -17,22 +17,22 @@ Monero has value because people are willing to buy it. If no one is willing to b
 
 <div class="tab">
     <input id="tab-two" type="checkbox" name="tabs" class="accordion">
-    <label for="tab-two" class="accordion">How can I get Monero?</label>
+    <label for="tab-two" class="accordion">Como posso obter Petcoins?</label>
     
 <div class="tab-content" markdown="1">
 
-You can buy Monero from an exchange or from an individual. Alternatively, you can try mining Monero to get coins from the block reward.
+Pode comprar Petcoin numa exchange ou através de um indivíduo. Alternativamente, pode tentar minar Petcoin para obter moedas da block reward.
 </div>
 
 </div>
 
 <div class="tab">
     <input id="tab-three" type="checkbox" name="tabs" class="accordion">
-    <label for="tab-three" class="accordion">What is a mnemonic seed?</label>
+    <label for="tab-three" class="accordion">O que é uma mnemonic seed?</label>
     
 <div class="tab-content" markdown="1">
 
-A mnemonic seed is a set of 25 words that can be used to restore your account anywhere. Keep these words safe and do not share them with someone else. You can use this seed to restore your account, even if your computer crashes.
+Uma mnemonic seed is a set of 25 words that can be used to restore your account anywhere. Keep these words safe and do not share them with someone else. You can use this seed to restore your account, even if your computer crashes.
 </div>
 
 </div>
@@ -72,7 +72,7 @@ For a lightweight wallet, you give your view key to a node, who scans the blockc
 
 <div class="tab">
     <input id="tab-seven" type="checkbox" name="tabs" class="accordion">
-    <label for="tab-seven" class="accordion">How is Monero different from Bitcoin?</label>
+    <label for="tab-seven" class="accordion">Como a Petcoin se diferencia da Bitcoin?</label>
     
 <div class="tab-content" markdown="1">
 
@@ -94,7 +94,7 @@ No, Monero does not have a hard block size limit. Instead, the block size can in
 
 <div class="tab">
     <input id="tab-nine" type="checkbox" name="tabs" class="accordion">
-    <label for="tab-nine" class="accordion">What is a blockchain?</label>
+    <label for="tab-nine" class="accordion">O que é uma Blockchain?</label>
     
 <div class="tab-content" markdown="1">
 

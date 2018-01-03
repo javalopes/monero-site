@@ -1,6 +1,6 @@
 ---
 layout: custom
-title: "Accepting Monero"
+title: "Aceitar a Petcoin"
 ---
 
 <section class="container">
@@ -15,20 +15,20 @@ title: "Accepting Monero"
                         </div>
 <div markdown="1">
                            
-### The Basics
+### Os básicos
 
-Monero works a little differently to what you may have become accustomed to from other @cryptocurrencies. In the case of a digital currency like Bitcoin and its many derivatives merchant payment systems will usually create a new recipient @address for each payment or user.
+A Petcoin funciona de uma maneira um pouco diferente do que você pode se ter acostumado com outras criptografias. No caso de uma moeda digital como a Bitcoin e seus muitos sistemas de pagamento de derivados, os comerciantes geralmente criarão um novo endereço de destinatário para cada pagamento ou utilizador.
 
-However, because Monero has @stealth-addresses there is no need to have separate recipient addresses for each payment or user, and a single @account address can be published. Instead, when receiving payments a merchant will provide the person paying with a "payment ID".
+No entanto, como a Petcoin possui endereços secretos, não é necessário ter endereços de destinatários separados para cada pagamento ou utilizador e um único endereço de conta pode ser publicado. Em vez disso, ao receber pagamentos, um comerciante irá fornecer a pessoa que paga com uma "identificação de pagamento".
 
-A @payment-ID is a hexadecimal string that is 64 characters long, and is normally randomly created by the merchant. An example of a payment ID is: 
+Uma identificação de pagamento é uma sequência hexadecimal de 64 caracteres e normalmente é criada aleatoriamente pelo comerciante. Um exemplo de uma identificação de pagamento é: 
 ```
 666c75666679706f6e7920697320746865206265737420706f6e792065766572
 ```
 
-### Checking for a Payment in monero-wallet-cli
+### Verificando um pagamento na petcoin-wallet-cli
 
-If you want to check for a payment using monero-wallet-cli you can use the "payments" command followed by the payment ID or payment IDs you want to check. For example:
+Se você quiser verificar se há um pagamento usando a petocoin-wallet-cli você pode usar o comando "pagamentos" seguido da identificação do pagamento ou identificações de pagamentos que deseja verificar. Por exemplo:
 
 ```
 [wallet 49VNLa]: payments 666c75666679706f6e7920697320746865206265737420706f6e792065766572
@@ -37,23 +37,23 @@ If you want to check for a payment using monero-wallet-cli you can use the "paym
 [wallet 49VNLa]: █
 ```
 
-If you need to check for payments programmatically, then details follow the next section.
+Se você precisa verificar os pagamentos de forma programada, os detalhes seguem na próxima seção.
 
-### Receiving a Payment Step-by-Step
+### Recebendo um pagamento passo-a-passo
 
-* Generate a random 64 character hexadecimal string for the payment  
-* Communicate the payment ID and Monero address to the individual who is making payment  
-* Check for the payment using the "payments" command in monero-wallet-cli
+* Gere uma string hexadecimal aleatória de 64 caracteres para o pagamento  
+* Comunique o endereço de pagamento e o endereço Petcoin ao indivíduo que efetua o pagamento  
+* Verifique o pagamento usando o comando "pagamentos" em petcoin-wallet-cli
 
-### Checking for a Payment Programmatically
+### Verificando um Pagamento Programado
 
-In order to check for a payment programmatically you can use the get_payments or get_bulk_payments JSON RPC API calls.
+Para verificar um pagamento programado, pode usar o get_payments ou get_bulk_payments JSON RPC API calls.
 
-*get_payments*: this requires a payment_id parameter with a single payment ID.
+*get_payments*: isso requer um parâmetro payment_id com uma única identificação de pagamento.
 
-*get_bulk_payments*: this is the preferred method, and requires two parameters, payment_ids - a JSON array of payment IDs - and an optional min_block_height - the block height to scan from.
+*get_bulk_payments*: Este é o método preferencial, e requer dois parâmetros, payment_ids - a JSON array of payment IDs - e um opcional min_block_height - a altura do bloco para escanear.
 
-An example of returned data is as follows:
+Um exemplo de dados retornados é o seguinte:
 
 ```
 [ monero->~ ]$ curl -X POST http://127.0.0.1:18500/json_rpc -d '{"jsonrpc":"2.0","method":"get_bulk_payments","id":"test", "params":{"payment_ids": ["666c75666679706f6e7920697320746865206265737420706f6e792065766572"]}}' -H "Content-Type: application/json"
@@ -72,16 +72,15 @@ An example of returned data is as follows:
 }
 ```
 
-It is important to note that the amounts returned are in base Monero units and not in the display units normally used in end-user applications. Also, since a transaction will typically have multiple outputs that add up to the total required for the payment, the amounts should be grouped by the tx_hash or the payment_id and added together. Additionally, as multiple outputs can have the same amount, it is imperative not to try and filter out the returned data from a single get_bulk_payments call.
-
-Before scanning for payments it is useful to check against the daemon RPC API (the get_info RPC call) to see if additional blocks have been received. Typically you would want to then scan only from that received block on by specifying it as the min_block_height to get_bulk_payments.
+É importante notar que os montantes devolvidos estão em unidades básicas de Petcoin e não nas unidades de exibição normalmente usadas em aplicativos de utilizadores finais. Além disso, uma vez que uma transação normalmente terá vários resultados que somam o total necessário para o pagamento, os valores devem ser agrupados pelo tx_hash ou pelo payment_id e adicionados juntamente. Além disso, como várias saídas podem ter a mesma quantidade, é imperativo não tentar filtrar os dados retornados de uma única chamada de get_bulk_payments.
+Antes de verificar os pagamentos, é útil verificar o daemon RPC API (a chamada do get_info RPC) para ver se foram recebidos blocos adicionais. Normalmente, você quer que eles scanem apenas a partir desse bloco recebido, especificando-o como o min_block_height to get_bulk_payments.
 
 ### Programatically Scanning for Payments
 
-* Get the current block height from the daemon, only proceed if it has increased since our last scan  
+* Obtenha a altura atual do bloco do daemon, e continue apenas se aumentou desde a nossa última verificação  
 * Call the get_bulk_payments RPC API call with our last scanned height and the list of all payment IDs in our system  
-* Store the current block height as our last scanned height  
-* Remove duplicates based on transaction hashes we have already received and processed  
+* Armazene a altura atual do bloco como a nossa última altura escaneada  
+* Remova duplicados com base nos hashes de transações que já recebemos e processamos  
                            
 </div>
                     </div>
