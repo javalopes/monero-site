@@ -1,12 +1,12 @@
 ---
 layout: custom
-title: Mining Monero
+title: Mining pools
 ---
 <div class="mining">
 <div class="center-xs container description">
-<p>Monero is a cryptocurrency that relies on proof-of-work mining to achieve distributed consensus. Below you'll find some information and resources on how to begin mining.</p>
+<p>A Petcoin é uma criptografia que depende da mineração de "proof of work" para alcançar um consenso distribuído. Abaixo encontrará algumas informações e recursos sobre como começar a minar.</p>
 
-<p><strong>The Monero Project does not endorse any particular pool, software, or hardware, and the content below is provided for informational purposes only.</strong></p>
+<p><strong>O projecto Petcoin não endossa nenhuma pool, software, or hardware em particular, e o conteúdo abaixo é fornecido apenas para fins informativos.</strong></p>
 </div>
 
 <section class="container">
@@ -37,7 +37,7 @@ title: Mining Monero
                         </div>
                     </div>
                     <div class="row center-xs">
-                       <p>A listing of trusted Monero pools is found <a href="http://moneropools.com/"> here</a>.</p>
+                       <p>Aqui encontra uma lista de Petcoin pools confiáveis. (inserir listas) <a href="http://moneropools.com/"> </a>.</p>
                     </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ title: Mining Monero
                         </div>
                     </div>
                     <div class="row center-xs">
-                       <p>See <a href="http://monerobenchmarks.info/">here</a> for a listing of GPUs/CPUs and their respective hashrates.</p>
+                       <p>Aqui <a href="http://monerobenchmarks.info/">encontra</a> uma lista de GPUs/CPUs e os seus respetivos hashrates.</p>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@ title: Mining Monero
                         </div>
                     </div>
                     <div class="row center-xs">
-                       <p>Note that some miners may have developer fees.</p>
+                       <p>Aqui encontra uma lista de software utilizado para minar Petcoin.</p>
                     </div>
                     <div class="row center-xs">
                         <p><a href="https://github.com/fireice-uk/xmr-stak" target="_blank" rel="noreferrer noopener">XMR Stak</a></p>

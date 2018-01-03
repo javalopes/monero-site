@@ -1,9 +1,9 @@
 ---
 layout: custom
-title: Using Monero
+title: Usar a Petcoin
 ---
 <div class="text-center container description">
-    <p>Transacting with Monero can be made easy. This page is designed to guide users in that process.</p>
+    <p>Usar a Petcoin é fácil, seguro e privado. Esta página foi concebida para orientar os utilizadores nesse processo.</p>
 </div>
 <div class="using">
     <section class="container">
@@ -13,11 +13,11 @@ title: Using Monero
                 <div class="info-block text-adapt">
                     <div class="row center-xs">
                         <div class="col">
-                            <h2>1. Learn</h2>
+                            <h2>Aprender</h2>
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>Monero is a secure, private, and untraceable cryptocurrency. The developers and community are committed to protecting these values. Learn more by reading the <a href="/get-started/what-is-monero/">What is Monero</a> page. The <a href="https://github.com/monero-project">source code</a> is also available for review and discussion.</p>
+                        <p>A Petcoin é uma criptografia segura, privada e untraceable.Como criadores do projeto, estamos comprometidos com a proteção destes valores.</p>
                     </div>
                 </div>
             </div>
@@ -30,11 +30,11 @@ title: Using Monero
                 <div class="info-block">
                     <div class="row center-xs">
                         <div class="col">
-                            <h2>2. Request Support</h2>
+                            <h2>Gerar uma carteira</h2>
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>There is a large and supportive community that will assist if you experience any difficulty. See the <a href="/community/hangouts/">Hangouts</a> page for more information.</p>
+                        <p>Para movimentar os seus fundos é necessária uma carteira Petcoin. Consulte a página <a href="/downloads/">Downloads</a> para obter uma lista de carteiras disponíveis.</p>
                     </div>
                 </div>
             </div>
@@ -42,11 +42,11 @@ title: Using Monero
                 <div class="info-block">
                     <div class="row center-xs">
                         <div class="col">
-                            <h2>3. Generate a Wallet</h2>
+                            <h2>Enviar e receber</h2>
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>A Monero wallet is required to secure your own funds. See the <a href="/downloads/">Downloads</a> page for a listing of available wallets.</p>
+                        <p>Saiba como enviar e receber Petcoin ao visualizar o <a href="/get-started/accepting/">guide</a>.</p>.</p>
                     </div>
                 </div>
             </div>
@@ -59,11 +59,11 @@ title: Using Monero
                 <div class="info-block text-adapt">
                     <div class="row center-xs">
                         <div class="col">
-                            <h2>4. Acquire Monero</h2>
+                            <h2>Como adquirir</h2>
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>Monero may be purchased on an <a href="/community/merchants#exchanges">exchange</a> with fiat or other cryptocurrencies. An alternate way of acquiring Monero is via <a href="https://getmonero.org/get-started/mining/">mining</a>, the computationally-complex process whereby transactions are immutably recorded on the blockchain.</p>
+                        <p>A Petcoin pode ser adquirida numa troca com outras criptomoedas. Uma maneira alternativa de adquirir Petcoin é através da mineração, um processo computacional complexo pelo qual as transações são registradas imutavelmente na blockchain.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@ title: Using Monero
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>Monero may be used to purchase many goods and services. For a listing, see the <a href="/community/merchants/">Merchants</a> page. </p>
+                        <p>A Petcoin ajuda várias associações na alimentação dos seus animais. Para uma lista dos nossos parceiros aceda a <a href="/community/merchants/">Merchants</a>.</p>
                     </div>
                 </div>
             </div>
