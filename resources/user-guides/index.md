@@ -14,11 +14,11 @@ title: "User Guides"
                 </div>
 <div class="row start-xs" markdown="1">
 
-[Monero Tools](monero_tools.html)
-[How to make an offline backup](Offline_Backup.html)
-[Importing the Monero blockchain](importing_blockchain.html)
-[How to run a node on VPS](vps_run_node.html)
-[Securely purchasing and storing Monero](securely_purchase.html)
+[Ferramentas da Petcoin](monero_tools.html)
+[Como fazer um backup off-line](Offline_Backup.html)
+[Importando a blockchain da Petcoin](importing_blockchain.html)
+[Como executar um node no VPS](vps_run_node.html)
+[Compra e armazenamento seguro de Petcoin](securely_purchase.html)
 
 </div>
             </div>
@@ -27,16 +27,16 @@ title: "User Guides"
             <div class="info-block">
                 <div class="row center-xs">
                     <div class="col">
-                        <h2>Wallets</h2>
+                        <h2>Carteiras</h2>
                     </div>
                 </div>
 <div class="row start-xs" markdown="1">
 
-[Getting started with the CLI wallet](monero-wallet-cli.html)
-[How to make a view-only wallet](view_only.html)
-[How to prove payment](prove-payment.html)
-[Restoring wallet from keys](restore_from_keys.html)
-[How to connect to a remote node within GUI wallet](remote_node_gui.html)
+[Começando com a carteira CLI](monero-wallet-cli.html)
+[Como fazer uma carteira somente de visualização](view_only.html)
+[Como provar o pagamento](prove-payment.html)
+[Restaur a carteira das chaves](restore_from_keys.html)
+[Como se conectar a um node remoto na carteira GUI](remote_node_gui.html)
 
 </div>
             </div>
@@ -50,13 +50,13 @@ title: "User Guides"
             <div class="info-block">
                 <div class="row center-xs">
                     <div class="col">
-                        <h2>Recovery</h2>
+                        <h2>Recuperação</h2>
                     </div>
                 </div>
 <div class="row start-xs" markdown="1">
 
-[How to fix locked up funds](howto_fix_stuck_funds.html)
-[How to restore your account](restore_account.html)
+[Como corrigir fundos trancados](howto_fix_stuck_funds.html)
+[Como restaurar a sua conta](restore_account.html)
 
 </div>
             </div>
@@ -65,14 +65,14 @@ title: "User Guides"
             <div class="info-block">
                 <div class="row center-xs">
                     <div class="col">
-                        <h2>Mining</h2>
+                        <h2>Minar</h2>
                     </div>
                 </div>
 <div class="row start-xs" markdown="1">
 
-[How to solo mine with the GUI](solo_mine_GUI.html)
-[How to mine on a pool with xmr-stak-cpu](mine-to-pool.html)
-[Mining with Docker and XMRig](mining_with_xmrig_and_docker.html)
+[Como minar a solo com a GUI](solo_mine_GUI.html)
+[Como minar numa pool com ptc-stak-cpu](mine-to-pool.html)
+[Minar com Docker e XMRig](mining_with_xmrig_and_docker.html)
 
 </div>
             </div>
@@ -111,7 +111,7 @@ title: "User Guides"
             <div class="info-block">
                 <div class="row center-xs">
                     <div class="col">
-                        <h2>Miscellaneous</h2>
+                        <h2>Diversos</h2>
                     </div>
                 </div>
 <div class="row start-xs" markdown="1">

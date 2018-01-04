@@ -1,27 +1,27 @@
 ---
 layout: static_page
-title: "Monero tools"
-title-pre-kick: "Monero tools "
+title: "Petcoin tools"
+title-pre-kick: "Petcoin tools "
 title-kick: "for the network "
 title-post-kick: ""
 kick-class: "purple-kicks"
 icon: "icon_userguides"
 attribution: "<!-- Icon is based on work by Freepik (http://www.freepik.com) and is licensed under Creative Commons BY 3.0 -->"
 ---
-# Monero tools
+# Petcoin tools
 
-These tools can be used to gain information about the Monero network or your transaction data in the blockchain. 
+Essas ferramentas podem ser usadas para obter informações sobre a rede Petcoin ou sobre os seus dados de transações na blockchain. 
 
-### [Check that a recipient has received your funds](http://xmrtests.llcoins.net/checktx.html)
+### [Verifique se um destinatário recebeu os seus fundos](http://xmrtests.llcoins.net/checktx.html)
 
-### [Tools for monero address generation](https://xmr.llcoins.net/)
+### [Ferramentas para geração de endereço Petcoin](https://xmr.llcoins.net/)
 
-### [Monero node count](http://moneronodes.i2p.xyz/)
+### [Petcoin node count](http://moneronodes.i2p.xyz/)
 
-### [Monero node map](https://monerohash.com/nodes-distribution.html)
+### [Petcoin node map](https://monerohash.com/nodes-distribution.html)
 
-### [Monero offline wallet generator](http://moneroaddress.org/)
+### [Gerador de carteira offline Petcoin](http://moneroaddress.org/)
 
-### [Monero network statistics](http://moneroblocks.info/stats)
+### [Estatísticas da rede Petcoin](http://moneroblocks.info/stats)
 
-### [Monero.how statistics](https://www.monero.how/)
+### [Petcoin.how estatisticas](https://www.monero.how/)

@@ -1,23 +1,23 @@
 ---
 layout: custom
-title: "Developer Guides"
+title: "Guias do desenvolvedor"
 ---
 
 <div class="guides">
 
 <div class="center-xs container description">
-<p class="text-center">Please note: the guides below are currently out of date, but are considered a good starting point for most calls. </p>
+<p class="text-center">Observação: os guias abaixo estão atualmente desatualizados, mas são considerados um bom ponto de partida para a maioria das calls. </p>
 </div>
 
 <section class="container full">
     <div class="info-block">
-        <h2>RPC Documetation</h2>
+        <h2>Documentação RPC</h2>
 <div markdown="1">
 
-[Daemon RPC Documentation](daemon-rpc.html)
-[Wallet RPC Documentation](wallet-rpc.html)
+[Documentação Daemon RPC](daemon-rpc.html)
+[Documentação da carteira RPC](wallet-rpc.html)
 
-More coming soon...
+Mais brevemente...
 </div>
     </div>
 </section>

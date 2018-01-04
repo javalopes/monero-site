@@ -1,6 +1,6 @@
 ---
 layout: custom
-title: Monero Team
+title: Equipa Petcoin
 ---
 <div class="team">
 
@@ -44,7 +44,7 @@ title: Monero Team
                             </div>
                             <label for="tab-2" tabindex="0"></label>
                             <input id="tab-2" type="radio" name="tabs" aria-hidden="true">
-                            <h2>Developers</h2>
+                            <h2>Desenvolvedores</h2>
                             <div class="tabPanel-content">
                              <div class="container full">
                                    <div class="info-block text-adapt">
@@ -88,7 +88,7 @@ title: Monero Team
                             <div class="tabPanel-content">
                               <div class="row">
                                 {% for toplevel in site.data.team %}
-                                  {% if toplevel.area == "Community" %}
+                                  {% if toplevel.area == "Comunidade" %}
                                     {% for member in toplevel.member %}
                                         <div class="half col-lg-6 col-md-6 col-sm-6 col-xs-6">
                                            <div class="info-block">
@@ -115,7 +115,7 @@ title: Monero Team
                             </div>
                             <label for="tab-4" tabindex="0"></label>
                             <input id="tab-4" type="radio" name="tabs" aria-hidden="true">
-                            <h2>Research Lab</h2>
+                            <h2>Laboratório de pesquisa</h2>
                             <div class="tabPanel-content">
                               <div class="row">
                                 {% for toplevel in site.data.team %}
@@ -146,7 +146,7 @@ title: Monero Team
                             </div>
                             <label for="tab-5" tabindex="0"></label>
                             <input id="tab-5" type="radio" name="tabs" aria-hidden="true">
-                            <h2>Special Thanks</h2>
+                            <h2>Agradecimentos especiais</h2>
                             <div class="tabPanel-content">
                               <div class="row">
                                 {% for toplevel in site.data.team %}

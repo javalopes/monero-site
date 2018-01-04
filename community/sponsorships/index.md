@@ -1,10 +1,10 @@
 ---
 layout: custom
-title: Sponsorships
+title: Parceiros Sociais
 ---
 
 <div markdown="1" class="text-center container description">
-The following businesses have supported the Monero Project in its goal to bring financial privacy to the world. We couldn't be more grateful for their contributions. If you would like to sponsor the Monero Project and be listed on this page, please send an email to dev@getmonero.org.
+As seguintes entidades apoiaram o Projeto Petcoin no seu objetivo de ajudar as instituições de apoio a animais carenciados. Não poderíamos estar mais agradecidos com as suas contribuições. Se quiser patrocinar ou ajudar de qualquer outra forma o Projeto Petcoin e estar listado nesta página, envie um e-mail para 
 </div>
 
 <div>

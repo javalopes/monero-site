@@ -7,8 +7,8 @@ title: "Downloads"
 
 <div class="container description" markdown="1">
 
-If you need help choosing the correct application, please click [here](https://www.reddit.com/r/Monero/comments/64b5lf/what_is_the_best_monero_wallet/) for a quick answer, then select the appropriate release for your operating system below.
-Note: the SHA256 hashes are listed by the downloads for convenience, but a GPG-signed list of the hashes is at [getmonero.org/downloads/hashes.txt](https://getmonero.org/downloads/hashes.txt) and should be treated as canonical, with the signature checked against the appropriate GPG key in the source code (in /utils/gpg_keys).
+Se precisar de ajuda para escolher a aplicação correta, clique [aqui](https://www.reddit.com/r/Monero/comments/64b5lf/what_is_the_best_monero_wallet/) para obter uma resposta rápida, depois selecione a versão apropriada para o seu sistema operacional abaixo.
+Nota: as hases SHA256 são listados pelos downloads por conveniência, mas uma lista de hashes de GPG assinada está em [getmonero.org/downloads/hashes.txt](https://getmonero.org/downloads/hashes.txt) e deve ser tratado como canônico, com a assinatura verificada contra a chave GPG apropriada no código-fonte (in /utils/gpg_keys).
 
 </div>
 <div class="container full downdropdown">
@@ -72,7 +72,7 @@ Note: the SHA256 hashes are listed by the downloads for convenience, but a GPG-s
 </h4>
 </div>
 <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12" markdown="1">
-If you'd prefer to use a blockchain bootstrap, instead of syncing from scratch, you can [use this link for the most current bootstrap](https://downloads.getmonero.org/blockchain.raw). It is typically much faster to sync from scratch, however, and it also takes a lot less RAM (import is very greedy).
+Se preferir usar um blockchain bootstrap, em vez de sincronizar a partir do zero, pode [usar este link para o bootstrap mais atual](https://downloads.getmonero.org/blockchain.raw). Normalmente, é muito mais rápido sincronizar a partir do zero, e também requer muito menos RAM (a importação é muito gananciosa).
 </div>
 </div>
 {% elsif data_downloads.id == "hardware" %}
@@ -84,7 +84,7 @@ If you'd prefer to use a blockchain bootstrap, instead of syncing from scratch, 
 {% elsif data_downloads.id == "mobilelight" %}
 <div class="row">
 <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
-<p>The following are mobile or light wallets that are deemed safe by trusted members of the community. If there is a wallet that is not on here, you can request the community check it out. Go to our <a href="/community/hangouts/">Hangouts</a> page to see where we are.</p>
+<p>As seguintes são carteiras móveis ou leves que são consideradas seguras por membros confiáveis ​​da comunidade. Se houver uma carteira que não esteja aqui, pode solicitar que a comunidade verifique a mesma. Vá para a nossa <a href="/community/hangouts/">Hangouts</a> página para ver onde nos encontramos.</p>
 </div>
 </div>
 <div class="row center-xs">

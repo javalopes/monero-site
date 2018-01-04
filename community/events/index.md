@@ -1,10 +1,10 @@
 ---
 layout: custom
-title: Events
+title: Eventos
 ---
 
 <div markdown="1" class="text-center container description">
-Monero people are always down to get together and have a good time. Check below to see Monero-related events happening in your area.
+Os desenvolvedores da Petcoin estão sempre disponíveis para se juntar e se divertir. Verifique abaixo para ver eventos relacionados à Petcoin a acontecer na sua área.
 </div>
 
 {% for toplevel in site.data.events %}

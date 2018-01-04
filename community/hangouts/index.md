@@ -1,9 +1,9 @@
 ---
 layout: custom
-title: Hangouts
+title: Redes Sociais
 ---
 <div markdown="1" class="text-center container description">
-The Monero community is diverse and varied. We come from all over, but we definitely have some places we like to hang out together. You'll find most of them below. Join us!
+A comunidade Petcoin é diversificada e variada. Nós viemos de todo o lado, mas definitivamente temos alguns lugares que gostamos de nos reuinir. Encontrará a maioria deles abaixo. Junte-se a nós!
 </div>
 
 <div class="hangouts">
@@ -32,7 +32,7 @@ The Monero community is diverse and varied. We come from all over, but we defini
                         <div class="info-block">
                             <div class="row center-xs">
                                 <div class="col">
-                                    <h2>Workgroup Resources</h2>
+                                    <h2>Recursos do grupo de trabalho</h2>
                                 </div>
                             </div>
                             <div class="row center-xs">
