@@ -10,7 +10,7 @@ title: "Aceitar a Petcoin"
                     <div class="info-block text-adapt">
                         <div class="row center-xs">
                             <div class="col">
-                                <h2>Instructions for the Command-Line Interface</h2>
+                                <h2>Instruções para a interface de linha de comando</h2>
                             </div>
                         </div>
 <div markdown="1">

@@ -17,6 +17,19 @@ A Petcoin tem valor porque as pessoas estão dispostas a comprá-la ou a transac
 
 <div class="tab">
     <input id="tab-two" type="checkbox" name="tabs" class="accordion">
+    <label for="tab-two" class="accordion">Como posso trocar Petcoin por outras moedas? Exemplos: Bitcoin, Monero, Euros, Dollar, etc.</label>
+    
+<div class="tab-content" markdown="1">
+
+Em qualquer exchange site que aceite a nossa moeda como elemento de troca. Por exemplo, Poloniex ou Bittrex.
+</div>
+
+</div>
+
+
+
+<div class="tab">
+    <input id="tab-two" type="checkbox" name="tabs" class="accordion">
     <label for="tab-two" class="accordion">Como posso obter Petcoin?</label>
     
 <div class="tab-content" markdown="1">
