@@ -14,25 +14,52 @@ attribution: "<!-- Icon is based on work by Freepik (http://www.freepik.com) and
 
 ## About Monero
 
+To most people, financial privacy is very important. Yet in recent years, we have seen a staggering amount of big corporations, banks and governments have their records compromised, each time leaking information about their users, their practices, and their balance sheets. The unfortunate but undeniable conclusion is that there is no safe place to conduct private transactions.  
+There *was* no safe place to conduct private transactions. Monero provides a place where your financial activities are private. Monero is one of the leading cryptocurrencies in the post-Bitcoin world, and it is built on principles of privacy, decentralization, and scalability.  
+From an economic point of view, a currency needs to be fungible. Fungibility is a property of money that makes all units "equal." Without fungibility, money flows can be tracked and tainted, making it very difficult to use the digital tokens as money.   
 
+Monero is a secure, private, untraceable currency. It is open source, freely available to all, and was fairly launched on April 18th, 2014, without premine or instamine. 
+The technology behind Monero has already spiked the interest of several established people in the Bitcoin development world and the cryptography community. 
+Monero development is completely donation-based and community-driven, with a strong focus on decentralization and scalability.
+With Monero, you are your own bank. Only you control and are responsible for your funds, and your accounts and transactions are kept private from prying eyes.
 
-Monero was launched in April 2014. It was a fair, pre-announced launch of the CryptoNote reference code. There was no premine or instantmine, and no portion of the block reward goes to development. See the original Bitcointalk thread here. The founder, thankful_for_today, proposed some controversial changes that the community disagreed with. A fallout ensued, and the Monero Core Team forked the project with the community following this new Core Team. This Core Team has provided oversight since.
+Read on to find out how Monero is helping to solve real problems and limitations of existing cryptocurrencies, and building a more private blockchain.   
 
-Monero has made several large improvements since launch. The blockchain was migrated to a different database structure to provide greater efficiency and flexibility, minimum ring signature sizes were set so that all transactions were private by mandate, and RingCT was implemented to hide the transaction amounts. Nearly all improvements have provided improvements to security or privacy, or they have facilitated use. Monero continues to develop with goals of privacy and security first, ease of use and efficiency second.
-                           
+## PRIVACY
 
+Monero seeks to provide absolute transactional privacy in an effort to create true electronic cash. With Bitcoin, as well as with the vast majority of cryptocurrencies that have been established since, any and all transactions are entirely traceable. Any casual observer can read through the Bitcoin blockchain, and for any transaction, this observer can find out the exact amount that was transacted, as well as the precise transaction origin (sender address) and destination (recipient address).
+ 
+With Monero, for any private transaction, the same observer has no means to uncover the origin, destination, or amount transacted. As such, transactions on the Monero blockchain, are private and fundamentally untraceable.  
+But Monero is more than a currency. Driving the official slogan - “secure, private, untraceable” - are a multitude of applications where the parties involved wish to remain private. The Monero blockchain can keep confidential contracts confidential. Since the forthcoming, blockchain-powered internet of things will place the cloud all around us, it is then increasingly important that open access tools like Monero exist to provide a secure boundary for private settlements.
 
-A Petcoin é mais do que apenas uma tecnologia. É também o que a tecnologia representa. Algumas das principais filosofias pelas quais nos orientamos estão listadas abaixo.
+An often overlooked, but nonetheless important layer of privacy in a connected world, is that of the networking infrastructure. We have teamed up with Privacy Solutions, and development is well underway to incorporate an i2p router in Monero. In a world where ill-intentioned governments and ISPs can void an individual’s basic privacy rights on a whim, it then becomes necessary to establish a private communication platform.  
 
-### Segurança
+The underlying technologies and cryptography upon which Monero is built, has been (and continues to be) the subject of extensive analysis and review by numerous individuals and research groups. It has garnered favorable attention by some of the most prominent figures of the Bitcoin and cryptography world, such as Andrew Poelstra (andytoshi), Gregory Maxwell, and Nicolas Courtois.
 
-Os utilizadores devem poder confiar na Petcoin com as suas transações, sem risco de erro ou ataque. A Petcoin dá a recompensa de bloco inteiramente aos mineiros, que são os membros mais críticos da rede que fornecem essa segurança. As transações são criptográficamente seguras usando as ferramentas de criptografia mais recentes e resilientes disponíveis.
+With Monero, transactions are private by default. However, each user has the ability to select different levels of privacy, optionally disclosing their transaction information, or even provide audit access (view only) to their full Monero account.  
 
-### Privacidade 
+## DECENTRALIZATION
+While most cryptocurrencies align to theoretical principles of decentralization, the reality is that most fall short of such a claim. More often than not, it is not just one branch of a cryptocurrency system that is centralized in one form or another, it is that many branches are so.
 
-Tal como a Monero, a Petcoin leva a privacidade a sério. Este nível de privacidade deve ser completamente acessível para todos os utilizadores, sejam eles tecnologicamente competentes ou não tenham idéia de como a Petcoin funciona. 
+With Proof of Stake currencies, irregular emission and distribution models cause most of the staking power to end up in the hands of a privileged few. Participants of lesser weight are reduced to second class citizens, with little chance of ever obtaining similar returns.
 
-### Descentralização 
-                          
-A Petcoin está empenhada em fornecer o máximo de descentralização. Com a Petcoin, não precisa confiar em mais ninguém na rede e não é executado por nenhum grupo grande. Um algoritmo acessível de "Prova de Trabalho" facilita a mineração da Petcoin em computadores normais, o que torna mais difícil para alguém comprar uma grande quantidade de energia de mineração. Os nodes conectam-se entre si com o I2P para reduzir os riscos de revelar informações de transações sensíveis e censura (tba). As decisões sobre o desenvolvimento da Petcoin são extremamente claras e abertas à discussão pública. Os logs de reunião dos desenvolvedores são publicados on-line na íntegra e visíveis por todos. 
-                           
+With Proof of Work currencies, of which Bitcoin remains the most significant reference, the mining process is largely concentrated in a handful of pools. This centralization of mining power, combined with a transparent blockchain, has already lead to various occurrences of transaction censorship.
+
+Other currencies opt for a closed development model, thus centralizing the invention process itself. These closed platforms commonly fail to meet any form of public audit or expert review. More importantly, these are platforms that will at anytime swing left and right, in order to satisfy the interests of the restricted group that holds control of development.
+
+Monero contrasts with these examples in various and meaningful ways. Monero is powered strictly by Proof of Work, but specifically, it employs a mining algorithm that has the potential to be efficiently tasked to billions of existing devices (any modern x86 CPU).
+This very characteristic, and more so once it is coupled with @Smart Mining, has the potential to ensure that for long years to come, the process of mining new Monero coins is within reach of the common individual, not an exclusive opportunity to the owners of large mining operations.
+
+Furthermore, as transactions are private by default on the Monero blockchain, transaction censorship is inherently void.
+The Monero development landscape, on the other hand, is very much the opposite of a closed or restricted access model. The core branch currently enjoys more than 30 contributors, pushing 1000+ commits over the past year. The project is happy to take on new contributors and any future plans, long-term direction and priorities are openly discussed with the community. Indeed, the policy that governs contribution to the Monero codebase is exhaustingly inclusive - all contributions are accepted into the development branch, where new code can be scrutinized and tested by the entire community. 
+
+Most contributors in the Monero development landscape are quite passionate for an open source philosophy, and in this rich creative environment, new projects have sparked to life. @OpenAlias is one notable example, which has seen adoption by (amongst others) a major Bitcoin-related software product.
+
+## SCALEABILITY
+One of the problems with cryptocurrencies is scaleability. Most cryptocurrencies are derived from the Bitcoin codebase and thus have a "block size limit." This limit has become a big issue in the Bitcoin community and led to fierce discussions. 
+Monero doesn't suffer from this block size debate, because it has a dynamic block size limit. This limit is automatically recalculated regularly based on a look-back window. A penalty system prevents out of control growth of the block size.
+Another issue with most cryptocurrencies is the development of a fee market. This issue is somewhat linked to the block size debate: the narrative is that when you limit the block size, a fee market will eventually develop. But this claim is highly debatable. When the transaction fees are supposed to be the main incentive for miners to secure the blockchain, it is possible the current consensus model will not be sustainable. At the moment, miners still act as they are expected: they mine on the longest chain. When they don't do that, they risk losing the block reward. But when that block reward becomes small compared to the mining fees, it's possible miners will have an incentive to not mine on the longest chain and start a fork trying to "steal" high transaction fees which were included in the latest blocks. Therefore, Monero implements a "permanent block reward." The block reward will never drop below 0.3 XMR, making Monero a disinflationary currency: the inflation will be roughly 1% in 2022 and go down forever, but the nominal inflation will stay at 0.3 XMR per minute. This means that there will always be an incentive for miners to mine Monero and thus keeping the blockchain secure, with or without a fee market.
+
+## FUNGIBILITY
+Fungibility is an important property of any functioning currency. You can try to hide your bitcoins as much as you want, if you tried to mix your non-fungible coins using a mixer, coinjoin or another type of "anonymity enhancing feature," these transactions can still be flagged as "possible suspicious activity on the blockchain," even if you are anonymous. Using non-fungible tokens as currency can eventually lead to blacklisting/whitelisting either by governments or through self-censorship. Some examples of these measures could be payment processors or exchanges refusing your tainted coins as a payment or deposit or miners refusing to include your suspicious transaction. 
+On the other hand, Monero transaction outputs have "plausible deniability" about their state: you can't tell if they are spent or unspent in a certain transaction or not. This leads to an opaque (non-transparent) blockchain making all coins "equal." @Fungibility is built into Monero at protocol level, making it real "digital cash." 
