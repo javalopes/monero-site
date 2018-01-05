@@ -1,6 +1,6 @@
 ---
 layout: custom
-title: "Technical Specs"
+title: "Especificações técnicas"
 ---
 
 <div class="about-monero">
@@ -30,18 +30,18 @@ title: "Technical Specs"
 
 <div markdown="1">
 * CryptoNight
-* may change in the future
+* pode mudar no futuro
 </div>
 
                     <div class="row">
                         <div class="col">
-                            <h3>Difficulty retarget</h3>
+                            <h3>Dificuldade de retarget</h3>
                         </div>
                     </div>
 
 <div markdown="1">
-* every block
-* based on the last 720 blocks, excluding 20% of the timestamp outliers
+* cada bloco
+* com base nos últimos 720 blocos, excluindo 20% dos outliers de marca de tempo
 </div>
 
                     <div class="row">
@@ -51,8 +51,8 @@ title: "Technical Specs"
                     </div>
 
 <div markdown="1">
-* 2 minutes
-* may change in the future as long as emission curve is preserved
+* +/- 2 minutos
+* pode mudar no futuro, desde que a curva de emissão seja preservada
 </div>
 
                     <div class="row">
@@ -62,7 +62,7 @@ title: "Technical Specs"
                     </div>
 
 <div markdown="1">
-* smoothly decreasing and subject to penalties for blocks greater then median size of the last 100 blocks (M100)
+* diminuindo suavemente e sujeito a penalidades por blocos maiores que o tamanho médio dos últimos 100 blocos (M100)
 * see the [latest block](https://moneroblocks.info/) coinbase transaction amount for current reward
 </div>
 
@@ -73,12 +73,12 @@ title: "Technical Specs"
                     </div>
 
 <div markdown="1">
-* dynamic, maximum of 2 * M100
+* dinâmico, máximo de 2 * M100
 </div>
 
                     <div class="row">
                         <div class="col">
-                            <h3>Emission curve</h3>
+                            <h3>Curva de emissão</h3>
                         </div>
                     </div>
 
@@ -90,7 +90,7 @@ title: "Technical Specs"
 
                     <div class="row">
                         <div class="col">
-                            <h3>Max supply</h3>
+                            <h3>Oferta máxima</h3>
                         </div>
                     </div>
 
@@ -100,7 +100,7 @@ title: "Technical Specs"
 
                     <div class="row">
                         <div class="col">
-                            <h3>Sender privacy</h3>
+                            <h3>Privacidade do remetente</h3>
                         </div>
                     </div>
 
@@ -110,12 +110,12 @@ title: "Technical Specs"
 
                     <div class="row">
                         <div class="col">
-                            <h3>Recipient privacy</h3>
+                            <h3>Privacidade do destinatário</h3>
                         </div>
                     </div>
 
 <div markdown="1">
-* Stealth addresses
+* Endereços furtivos
 </div>
 
                     <div class="row">

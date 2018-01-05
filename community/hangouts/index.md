@@ -16,7 +16,7 @@ A comunidade Petcoin é diversificada e variada. Nós viemos de todo o lado, mas
                 <a href="https://reddit.com/r/monero" target="_blank" rel="noreferrer noopener"><div class="social-icon reddit"></div></a>
             </li>
             <li>
-                <a href="https://www.facebook.com/monerocurrency/" target="_blank" rel="noreferrer noopener"><div class="social-icon facebook"></div></a>
+                <a href="https://www.facebook.com/Petcoin/" target="_blank" rel="noreferrer noopener"><div class="social-icon facebook"></div></a>
             </li>
             <li>
                 <a href="https://github.com/monero-project" target="_blank" rel="noreferrer noopener"><div class="social-icon github"></div></a>
