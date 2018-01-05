@@ -29,8 +29,8 @@ Em qualquer exchange site que aceite a nossa moeda como elemento de troca. Por e
 
 
 <div class="tab">
-    <input id="tab-two" type="checkbox" name="tabs" class="accordion">
-    <label for="tab-two" class="accordion">Como posso obter Petcoin?</label>
+    <input id="tab-eleven" type="checkbox" name="tabs" class="accordion">
+    <label for="tab-eleven" class="accordion">Como posso obter Petcoin?</label>
     
 <div class="tab-content" markdown="1">
 
