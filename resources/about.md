@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: "About Monero"
+title: "Sobre a Petcoin"
 title-pre-kick: "About "
 title-kick: "Monero"
 title-post-kick: ""
@@ -9,8 +9,6 @@ icon: "icon_about"
 attribution: "<!-- Icon is based on work by Freepik (http://www.freepik.com) and is licensed under Creative Commons BY 3.0 -->"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TZi9xx6aiuY" frameborder="0" allowfullscreen></iframe>
-<!-- Source code for this video can be found at https://github.com/savandra/Monero_Promo_Video/blob/master/README.md -->
 
 ## O começo de uma história...
 
