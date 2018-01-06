@@ -28,7 +28,7 @@ title: "O que é a Petcoin (PTC)?"
                             <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12 why-text">
                                 <h3>As transações da Petcoin são confidenciais e irrastreáveis.</h3>
                                 <p>Sendo uma moeda parente da Monero, a Petcoin detém todas as suas vantagens, como o foco em transações privadas e resistentes à censura, tendo como principal vantagem face às moedas virtuais em uso correntemente o facto de as nossas fees serem muito mais baixas.</p>
-								<p>A Petcoin é fungível. Por ser camuflável (?), não pode ser afetada pela utilização em transações anteriores. Isto significa que a Petcoin será sempre aceite, sem correr o risco de ser censurada.</p>
+								<p>A Petcoin é fungível. Por ser camuflável, não pode ser afetada pela utilização em transações anteriores. Isto significa que a Petcoin será sempre aceite, sem correr o risco de ser censurada.</p>
                                
                             </div>
 
@@ -46,8 +46,5 @@ title: "O que é a Petcoin (PTC)?"
 
                         </div>
                     </div>
-            </section>.
+            </section>
 
-
-           
-        </section>
