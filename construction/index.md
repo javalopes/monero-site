@@ -1,6 +1,6 @@
 ---
 layout: error
-title: "Error 404, Page Not Found"
+title: "A página actual está sob construção."
 ---
 
 <link rel="stylesheet" href="/404/css/main.css" type="text/css" media="screen, projection" />
@@ -10,16 +10,16 @@ title: "Error 404, Page Not Found"
 
 <div id="wrapper">
 	<div class="graphic">
-		<img src="/404/images/404.png" alt="404" />
+		<img src="/img/coming-soon.png" alt="404" />
 	</div>
 
 	<div class="top-left">
 			<div class="not-found-text">
-				<h1 class="not-found-text">Oh no! We couldn't find anything for that link!</h1>
+				<h1 class="not-found-text">Brevemente iremos disponibilizar novos conteúdos.</h1>
 			</div>
 	</div>
 
-	<div class="planet">
+	
 		<div class="dog-wrapper">
 			<div class="dog"></div>
 			<div class="dog-bubble"></div>
