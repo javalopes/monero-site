@@ -20,7 +20,7 @@ title: "A página actual está sob construção."
 	</div>
 
 	
-		<div class="dog-wrapper">
+	
 			<div class="dog"></div>
 			<div class="dog-bubble"></div>
 
@@ -33,7 +33,6 @@ title: "A página actual está sob construção."
 			</div>
 		</div>
 
-		<img src="/404/images/planet.png" alt="planet" />
+	
 	</div>
 
-</div>
