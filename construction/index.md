@@ -3,7 +3,7 @@ layout: error
 title: "A página actual está sob construção."
 ---
 
-<link rel="stylesheet" href="/404/css/main.css" type="text/css" media="screen, projection" />
+
 <!--[if lt IE 8]>
 	<link rel="stylesheet" type="text/css" href="/404/css/ie7.css" />
 <![endif]-->
