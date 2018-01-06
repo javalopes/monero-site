@@ -43,13 +43,7 @@ title: "O que é a Petcoin (PTC)?"
                             </div>
                         </div>
                       
-                            <div class="col-lg-5 col-md-6 col-sm-4 col-xs-12 center-xs">
-                                <img src="/img/monero-electronic-cash.png" alt="Electronic cash" class="main-icon">
-                            </div>
-                            <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12 why-text">
-                                <h3>A Petcoin é uma moeda virtual que permite efetuar pagamentos de forma rápida e pouco dispendiosa de e para qualquer lugar no mundo.</h3>
-                                <p>Não existem períodos de espera de vários dias nem risco de cobranças retroativas fraudulentas. Está a salvo do “controlo de capital”, medida utilizada para restringir o fluxo de moedas tradicionais, por vezes ao extremo, em países que passam por instabilidade económica.</p>
-                            </div>
+
                         </div>
                     </div>
             </section>.
@@ -57,4 +51,3 @@ title: "O que é a Petcoin (PTC)?"
 
             </div>
         </section>
-</div>
