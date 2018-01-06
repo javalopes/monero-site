@@ -14,7 +14,8 @@ title: "Em construção."
 	</div>
 <div id="wrapper">
 	<div class="graphic">
-		<img src="/img/coming-soon.png" alt="404" align="middle" />
+	<p style="text-align:center;"><img src="/img/coming-soon.png" "></p>
+	<!--	<img src="/img/coming-soon.png" alt="404" align="middle" />-->
 	</div>
 
 	
