@@ -21,18 +21,11 @@ title: "A página actual está sob construção."
 
 	
 	
-			<div class="dog"></div>
-			<div class="dog-bubble"></div>
+		
 
-			<div class="bubble-options">
-				{% for data_talk in site.data.dogtalk %}
-				<p class="dog-bubble">
-					{{ data_talk.bubble }}
-				</p>
-				{% endfor %}
-			</div>
+			
 		</div>
 
 	
-	</div>
+
 
