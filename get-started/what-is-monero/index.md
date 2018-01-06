@@ -45,6 +45,6 @@ title: "O que é a Petcoin (PTC)?"
                       
 
                         </div>
-                    </div>
+                 
             </section>
 
