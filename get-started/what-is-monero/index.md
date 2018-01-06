@@ -42,7 +42,7 @@ title: "O que é a Petcoin (PTC)?"
                                 <img src="/img/academic-growth.png" alt="Academic growth" class="main-icon">
                             </div>
                         </div>
-                  
+                        <div class="row middle-xs info-block-row">
                             <div class="col-lg-5 col-md-6 col-sm-4 col-xs-12 center-xs">
                                 <img src="/img/monero-electronic-cash.png" alt="Electronic cash" class="main-icon">
                             </div>
