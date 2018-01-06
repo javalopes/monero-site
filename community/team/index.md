@@ -50,8 +50,7 @@ title: Equipa Petcoin
                                    <div class="info-block text-adapt">
                                         <div class="row">
                                             <div class="col-xs-12 text-adapt">
-                                                <p>The Monero Project has had well over 200 contributors over the life of the project. For a complete list, please see the <a href="https://www.openhub.net/p/monero/contributors">OpenHub contributors page</a>. Below you'll find some individuals that have gone above and beyond for Monero.</p>
-                                            </div>
+                                             </div>
                                         </div>
                                     </div>
                             </div>
@@ -84,11 +83,11 @@ title: Equipa Petcoin
                             </div>
                             <label for="tab-3" tabindex="0"></label>
                             <input id="tab-3" type="radio" name="tabs" aria-hidden="true">
-                            <h2>Community</h2>
+                            <h2>Redes Sociais</h2>
                             <div class="tabPanel-content">
                               <div class="row">
                                 {% for toplevel in site.data.team %}
-                                  {% if toplevel.area == "Comunidade" %}
+                                  {% if toplevel.area == "Redes Sociais" %}
                                     {% for member in toplevel.member %}
                                         <div class="half col-lg-6 col-md-6 col-sm-6 col-xs-6">
                                            <div class="info-block">
@@ -119,7 +118,7 @@ title: Equipa Petcoin
                             <div class="tabPanel-content">
                               <div class="row">
                                 {% for toplevel in site.data.team %}
-                                  {% if toplevel.area == "Monero Research Lab" %}
+                                  {% if toplevel.area == "Laboratório de pesquisa" %}
                                     {% for member in toplevel.member %}
                                         <div class="half col-lg-6 col-md-6 col-sm-12 col-xs-6">
                                            <div class="info-block">
@@ -150,7 +149,7 @@ title: Equipa Petcoin
                             <div class="tabPanel-content">
                               <div class="row">
                                 {% for toplevel in site.data.team %}
-                                  {% if toplevel.area == "Special Thanks" %}
+                                  {% if toplevel.area == "Agradecimentos especiais" %}
                                     {% for member in toplevel.member %}
                                         <div class="half col-lg-6 col-md-6 col-sm-12 col-xs-6">
                                            <div class="info-block">
