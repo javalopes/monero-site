@@ -46,7 +46,7 @@ title: Usar a Petcoin
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>Saiba como enviar e receber Petcoin ao visualizar o <a href="/get-started/accepting/">guide</a>.</p>.</p>
+                        <p>Saiba como enviar e receber Petcoin ao visualizar o <a href="/get-started/accepting/">guide</a>.</p>
                     </div>
                 </div>
             </div>
@@ -76,11 +76,11 @@ title: Usar a Petcoin
                 <div class="info-block">
                     <div class="row center-xs">
                         <div class="col">
-                            <h2>5. Send and Receive Monero</h2>
+                            <h2>Enviar e receber Petcoin</h2>
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>Learn how to send and receive Monero by viewing the <a href="/get-started/accepting/">guide</a>.</p>
+                        <p>Aprenda como enviar e receber Petcoin através do <a href="/get-started/accepting/">guia</a>.</p>
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@ title: Usar a Petcoin
                 <div class="info-block">
                     <div class="row center-xs">
                         <div class="col">
-                            <h2>6. Transact with Monero</h2>
+                            <h2>Lista de parcerias</h2>
                         </div>
                     </div>
                     <div class="row start-xs">
