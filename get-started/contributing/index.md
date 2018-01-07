@@ -12,8 +12,7 @@ A PetCoin é um projeto aberto, impulsionado pela sua comunidade. Eis algumas ma
                <!-- full block-->
                <div class="full col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="info-block text-adapt">
-                            <div class="row center-xs">
-                                <div class="col"><h2>Support the Network</h2></div>
+                            <div class="row center-xs">                             
                             </div>
 <div class="row start-xs" markdown="1">
 
@@ -21,10 +20,10 @@ A PetCoin é um projeto aberto, impulsionado pela sua comunidade. Eis algumas ma
 A PetCoin é escrita principalmente em C ++. Como é um projeto descentralizado, qualquer pessoa pode adicionar ou fazer alterações no código existente. Os pedidos de envio são mesclados com base no consenso da comunidade.
 
 ### Execute um full node
-Execute o monerod (mudar para o nosso) com a porta 18080 aberta. A execução de um full node garante a máxima privacidade ao transacionar com PetCoin. Também melhora a distribuição da cadeia de blocos para novos utilizadores. 
+Execute o monerod (mudar para o nosso) com a porta 18080 aberta. A execução de um full node garante a máxima privacidade ao transacionar com Petcoin. Também melhora a distribuição da cadeia de blocos para novos utilizadores. 
 
 ### Minar
-Minar garante que a rede PetCoin permaneça descentralizada e segura. A mineração de fundo pode ser ativada na interface gráfica do utilizador e na interface de linha de comando da PetCoin. Recursos adicionais para mineração podem ser vistos 
+Minar garante que a rede Petcoin permaneça descentralizada e segura. A mineração de fundo pode ser ativada na interface gráfica do utilizador e na interface de linha de comando da PetCoin. Recursos adicionais para mineração podem ser vistos 
 
 </div>
                         </div>

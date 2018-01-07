@@ -17,7 +17,7 @@ title: Usar a Petcoin
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>A Petcoin é uma criptografia segura, privada e untraceable.Como criadores do projeto, estamos comprometidos com a proteção destes valores.</p>
+                        <p>A Petcoin é uma criptografia segura, privada e irrastreável. Como criadores do projeto, estamos comprometidos com a proteção destes valores.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@ title: Usar a Petcoin
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>A Petcoin ajuda várias associações na alimentação dos seus animais. Para uma lista dos nossos parceiros aceda a <a href="/community/merchants/">Merchants</a>.</p>
+                        <p>A Petcoin ajuda várias associações na alimentação dos seus animais. Para uma lista dos nossos parceiros aceda a <a href="/community/merchants/">Parceiros</a>.</p>
                     </div>
                 </div>
             </div>
