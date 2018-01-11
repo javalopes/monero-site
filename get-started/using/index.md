@@ -3,10 +3,10 @@ layout: custom
 title: Usar a Petcoin
 ---
 <div class="text-center container description">
-    <p>Usar a Petcoin é fácil, seguro e privado. Esta página foi concebida para orientar os utilizadores nesse processo.</p>
+    <p>Usar a Petcoin é fácil, seguro e privado. Como criadores do projeto, estamos comprometidos com a proteção destes valores. Esta página foi concebida para orientar os utilizadores nesse processo.</p>
 </div>
 <div class="using">
-    <section class="container">
+  
         <div class="row">      
             <!-- full block-->
             <div class="full col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -46,7 +46,7 @@ title: Usar a Petcoin
                         </div>
                     </div>
                     <div class="row start-xs">
-                        <p>Saiba como enviar e receber Petcoin ao visualizar o <a href="/get-started/accepting/">guide</a>.</p>
+                        <p>Saiba como enviar e receber Petcoin ao visualizar o <a href="/get-started/accepting/">guia</a>.</p>
                     </div>
                 </div>
             </div>

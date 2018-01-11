@@ -14,7 +14,7 @@ title: "O que é a Petcoin (PTC)?"
                         <div class="row middle-xs info-block-row private">
                             <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12  why-text">
                                 <h3>A Petcoin é uma moeda virtual criada com o objetivo de apoiar associações que prestem auxílio a animais necessitados.</h3>
-                                <p>Esta moeda foi pré-minada a 12% sendo 2% referentes ao desenvolvimento do projeto e os restantes 10% atribuídos a um fundo sem fins lucrativos destinado a ajudar tais associações. Assim, garantimos que os 10% detidos sejam introduzidos no mercado de forma faseada, tentando nunca prejudicar o valor de mercado.</p>
+                                <p>Esta moeda foi pré-minada a 12%, sendo 2% referentes ao desenvolvimento do projeto e os restantes 10% atribuídos a um fundo sem fins lucrativos destinado a ajudar tais associações. Assim, garantimos que os 10% detidos sejam introduzidos no mercado de forma faseada, tentando nunca prejudicar o valor de mercado.</p>
                                 <p>Para ser possível alcançar tal objetivo, precisamos de parceiros dispostos a aceitar a Petcoin como forma de pagamento, possibilitando às associações poder de compra e às empresas aderentes um cliente que de outra forma não teria fundos/meios para efetuar a compra.</p>
                             </div>
                             <div class="col-lg-5 col-md-6 col-sm-4 col-xs-12 last-sm first-xs center-xs">
